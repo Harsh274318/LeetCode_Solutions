@@ -13,5 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [1528-shuffle-string](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/1528-shuffle-string) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
