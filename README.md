@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [1528-shuffle-string](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/1528-shuffle-string) |
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0268-missing-number) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -43,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
