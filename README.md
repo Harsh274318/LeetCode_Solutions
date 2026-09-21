@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## String
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0561-array-partition) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -121,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
