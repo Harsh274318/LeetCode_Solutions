@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0561-array-partition) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1528-shuffle-string](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/1528-shuffle-string) |
 ## Matrix
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
