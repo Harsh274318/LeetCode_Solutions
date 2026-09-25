@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
