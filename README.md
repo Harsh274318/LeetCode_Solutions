@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0561-array-partition) |
+| [0739-daily-temperatures](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1528-shuffle-string](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/1528-shuffle-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -170,4 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
