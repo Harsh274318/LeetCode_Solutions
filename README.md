@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [0739-daily-temperatures](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1528-shuffle-string](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/1528-shuffle-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0561-array-partition) |
+| [0977-squares-of-a-sorted-array](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
