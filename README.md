@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1528-shuffle-string](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/1528-shuffle-string) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Binary Search
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0561-array-partition) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 ## Counting Sort
 |  |
 | ------- |
