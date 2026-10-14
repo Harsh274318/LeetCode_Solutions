@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0922-sort-array-by-parity-ii](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
+| [0922-sort-array-by-parity-ii](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0561-array-partition) |
+| [0922-sort-array-by-parity-ii](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harsh274318/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
